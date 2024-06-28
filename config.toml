@@ -89,6 +89,18 @@ enableEmoji = true
         url = "tel:+995593612308"
         icon = "fa fa-whatsapp"
 
+    [[params.contacts]]
+        label = "Facebook"
+        value = "freshleaf.ge"
+        url = "https://www.facebook.com/freshleaf.ge"
+        icon = "fa fa-facebook"
+
+    [[params.contacts]]
+        label = "Instagram"
+        value = "freshleaf.ge"
+        url = "https://www.instagram.com/freshleaf.ge"
+        icon = "fa fa-instagram"
+
     # Add additional contacts here!
     # [[params.contacts]]
     #     label = ""
