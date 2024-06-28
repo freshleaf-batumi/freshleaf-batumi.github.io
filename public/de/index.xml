@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/de/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Scroll License</title>
+      <link>http://localhost:1313/de/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/license/</guid>
+      <description>The MIT License (MIT)&#xA;Copyright (c) 2020 Jan Raasch&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    <item>
+      <title>Mein Angebot</title>
+      <link>http://localhost:1313/de/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/services/</guid>
+      <description>Das ist die deutsche Variante von meinem Angebot.&#xA;It carries a lot more detail than what I put on the homepage - I swear!&#xA;You want to know what I can do for you?&#xA;Well, let me tell ya!&#xA;Nutrition Coaching This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.&#xA;Wow. That was nice, right?</description>
+    </item>
+    <item>
+      <title>The single page referenced to by the Legal button on the cover page</title>
+      <link>http://localhost:1313/de/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/legal/</guid>
+      <description>This file is a single page and is referenced by the button Legal on the cover start page.&#xA;It can contain more or additional information than the dedicated section on the homepage.</description>
+    </item>
+  </channel>
+</rss>
