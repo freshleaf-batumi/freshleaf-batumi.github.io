@@ -73,15 +73,21 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
+        value = "+995593612308"
+        url = "tel:+995593612308"
         icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "freshleaf.batumi@gmail.com"
+        url = "mailto:freshleaf.batumi@gmail.com"
         icon = "fa fa-envelope"
+
+    [[params.contacts]]
+        label = "WhatsApp"
+        value = "+995593612308"
+        url = "tel:+995593612308"
+        icon = "fa fa-whatsapp"
 
     # Add additional contacts here!
     # [[params.contacts]]

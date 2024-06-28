@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
 weight: 1
+draft: true
 ---
 
 `Hugo-Scroll` theme alternates colors of sections that are placed on single page.
