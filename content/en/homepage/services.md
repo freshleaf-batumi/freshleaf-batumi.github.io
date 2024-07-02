@@ -12,5 +12,3 @@ draft: false
 
 
 ![Our microgreens](images/microgreen-background.jpg)
-
-Want to learn more about my services? See [dedicated page](services) with more details.
