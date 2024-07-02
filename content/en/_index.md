@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/fresh-leaf-medium.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Matthew Rodda"
-header_subheadline: "<b>True</b> Chad & <b>Chef</b> Consultant"
+header_headline: "Batumi Microgreens"
+header_subheadline: "<b>Freshly grown</b> & delivered in Batumi"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

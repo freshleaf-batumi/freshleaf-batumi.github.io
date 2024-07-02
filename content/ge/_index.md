@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/microgreen-background.jpg"
+header_image: "images/microgreens-circle.png"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/fresh-leaf-medium.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Matthew Rodda"
-header_subheadline: "<b>True</b> Chad & <b>Chef</b> Consultant"
+header_headline: "ბათუმი მიკრომწვანილი"
+header_subheadline: "<b>ახლად მოყვანილი</b> და მიწოდებულია ბათუმში"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
