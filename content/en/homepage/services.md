@@ -3,7 +3,7 @@ title: "See Our Products"
 header_menu_title: "Products"
 navigation_menu_title: "Our Products"
 weight: 2
-header_menu: true
+header_menu: false 
 draft: false
 ---
 
