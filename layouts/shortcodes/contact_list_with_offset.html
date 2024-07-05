@@ -1,0 +1,6 @@
+{{ with (index .Site.Params.contacts 2) }}
+<p><i class="{{ .icon }}"></i>&nbsp;<a href="{{ .url | safeURL }}">{{ .value }}</a></p>
+{{ end }}
+{{ with (index .Site.Params.contacts 3) }}
+<p><i class="{{ .icon }}"></i>&nbsp;<a href="{{ .url | safeURL }}">{{ .value }}</a></p>
+{{ end }}
