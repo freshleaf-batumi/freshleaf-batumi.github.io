@@ -7,8 +7,9 @@ header_menu: false
 draft: false
 ---
 
-- [Facebook](https://www.facebook.com/freshleaf.ge)
-- [Instagram](https://www.instagram.com/freshleaf.ge)
+See our products and order here:
+{{<first_contact>}}
+{{<second_contact>}}
 
 
 ![Our microgreens](images/microgreen-background.jpg)

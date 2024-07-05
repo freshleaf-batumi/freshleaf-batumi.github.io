@@ -71,17 +71,17 @@ enableEmoji = true
     [params.meta]
         keywords = "fresh, microgreens, health, diet, orderd, delivery, healthy, food"
 
-    # [[params.contacts]]
-    #     label = "Facebook"
-    #     value = "freshleaf.ge"
-    #     url = "https://www.facebook.com/freshleaf.ge"
-    #     icon = "fa fa-facebook"
-    #
-    # [[params.contacts]]
-    #     label = "Instagram"
-    #     value = "freshleaf.ge"
-    #     url = "https://www.instagram.com/freshleaf.ge"
-    #     icon = "fa fa-instagram"
+    [[params.contacts]]
+        label = "Facebook"
+        value = "freshleaf.ge"
+        url = "https://www.facebook.com/freshleaf.ge"
+        icon = "fa fa-facebook"
+
+    [[params.contacts]]
+        label = "Instagram"
+        value = "freshleaf.ge"
+        url = "https://www.instagram.com/freshleaf.ge"
+        icon = "fa fa-instagram"
 
     [[params.contacts]]
         label = "phone"
