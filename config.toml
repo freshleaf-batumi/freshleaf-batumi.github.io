@@ -111,7 +111,7 @@ enableEmoji = true
     contentDir = "content/en"
 
   [languages.ge]
-    title = "Fresh micro greens in this demn city"
+    title = "Fresh micro greens in Batumi"
     weight = 20
     contentDir = "content/ge"
     languageName = "Georgian"
