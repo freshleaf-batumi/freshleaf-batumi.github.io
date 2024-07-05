@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ge/</loc>
+    <loc>http://www.freshleaf.ge/ge/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://www.freshleaf.ge/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ge"
-                href="http://localhost:1313/ge/"
+                href="http://www.freshleaf.ge/ge/"
                 />
   </url>
 </urlset>
