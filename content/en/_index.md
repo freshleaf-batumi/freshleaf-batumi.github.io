@@ -6,7 +6,7 @@ header_image: "images/microgreens-circle.png"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/fresh-leaf-medium.png"
+header_logo: "images/logo-transparent.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Batumi Microgreens"
