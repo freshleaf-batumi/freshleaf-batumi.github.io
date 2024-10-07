@@ -17,6 +17,4 @@ draft: false
 
 ✨ Browse our full menu and schedule your delivery.
 
-[{{<icon class="fa fa-globe">}} PC/Browser ](https://glovoapp.com/ge/en/batumi/freshleaf-ge-bat?l=en)
-
 ![Our microgreens](images/microgreen-background.jpg)
