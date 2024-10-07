@@ -7,7 +7,6 @@ header_menu: false
 draft: false
 ---
 
-
 {{<extlink icon="fa fa-facebook" text="freshleaf.ge" href="https://www.facebook.com/freshleaf.ge">}}<br/>
 
 {{<extlink icon="fa fa-instagram" text="freshleaf.ge" href="https://www.instagram.com/freshleaf.ge">}}
